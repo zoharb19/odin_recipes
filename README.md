@@ -1,2 +1,2 @@
-# glowing-dollop
-odin project
+# glowing-dollopj
+following my master odin orders
